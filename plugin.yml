@@ -1,0 +1,14 @@
+name: Commands
+author: georgianYT
+api: 3.0.0-ALPHA12
+version: 1.0
+main: georgianYT\Commands\Main
+commands:
+ regles:
+  description: All the rules to be complied with
+  aliases: [rules, rl]
+  permission: rules.commands
+ mod:
+  description: Lists of mods
+  aliases: [mod, mods]
+  permission: mod.commands
