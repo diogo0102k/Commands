@@ -1,7 +1,7 @@
 name: Commands
 author: georgianYT
 api: 3.0.0-ALPHA12
-version: 1.0
+version: 0.5
 main: georgianYT\Commands\Main
 commands:
  regles:
